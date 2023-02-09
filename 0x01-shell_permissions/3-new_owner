@@ -1,2 +1,2 @@
 #!/bin/bash
-su chown betty file
+chown betty file
