@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | uniq | head -3
+sort | uniq | head -u
